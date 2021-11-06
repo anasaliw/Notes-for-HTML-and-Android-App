@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:ignore="SpeakableTextPresentCheck">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#201D1D"
+        tools:context=".css_course">
+
+        <TextView
+            android:id="@+id/chapt1"
+            android:layout_width="303dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="36dp"
+            android:background="#3797E3"
+            android:text="Chapter 1: Build Your First App"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.575"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView3"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt2"
+            android:layout_width="300dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 2: Activities And Intents"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.575"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt1"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt3"
+            android:layout_width="301dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 3: Testing, Debugging And Support Libraries"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.581"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt2"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt4"
+            android:layout_width="295dp"
+            android:layout_height="37dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 4: User Interface"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.575"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt3"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt5"
+            android:layout_width="296dp"
+            android:layout_height="49dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 5:Delighful User Experience"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.573"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt4"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt6"
+            android:layout_width="295dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 6: Testing Your UI"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.577"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt5"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt7"
+            android:layout_width="298dp"
+            android:layout_height="42dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 7: Background Tasks"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.588"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt6"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt8"
+            android:layout_width="296dp"
+            android:layout_height="55dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 8: Alarms And Schedules"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.573"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt7"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt9"
+            android:layout_width="299dp"
+            android:layout_height="61dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 9: Preferences And Settings"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.595"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt8"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chapt10"
+            android:layout_width="292dp"
+            android:layout_height="59dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 10: Storing Data With Room"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.575"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chapt9"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="408dp"
+            android:layout_height="92dp"
+            android:background="#3797E3"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:text="Android App Development Course"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="#ECF3F6"
+            android:textColorHighlight="#C30E0E"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="TextContrastCheck" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

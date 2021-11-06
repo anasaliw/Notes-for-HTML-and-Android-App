@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="SpeakableTextPresentCheck"
+    android:fillViewport="true">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#151414"
+        tools:context=".html_course">
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="411dp"
+            android:layout_height="65dp"
+            android:background="#3797E3"
+            android:text="HTML Complete Course"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:textColor="#ECF3F6"
+            android:textColorHighlight="#C30E0E"
+            android:textStyle="italic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap1"
+            android:layout_width="258dp"
+            android:layout_height="37dp"
+            android:layout_marginTop="16dp"
+            android:background="#3797E3"
+            android:text="Chapter 1:Introduction"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.503"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView9"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap2"
+            android:layout_width="255dp"
+            android:layout_height="34dp"
+            android:layout_marginTop="24dp"
+            android:background="#3797E3"
+            android:text="Chapter 2: HTML ELements"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap1"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap3"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="24dp"
+            android:background="#3797E3"
+            android:text="Chapter 3: Attributes"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap2"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap4"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="24dp"
+            android:background="#3797E3"
+            android:text="Chapter 4: Styles"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.509"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap3"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap5"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 5: Colors"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.509"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap4"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap6"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="16dp"
+            android:background="#3797E3"
+            android:text="Chapter 6: Links"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.509"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap5"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap7"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="24dp"
+            android:background="#3797E3"
+            android:text="Chapter 7: Images"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap6"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap8"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 8: Tables"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.509"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap7"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap9"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="24dp"
+            android:background="#3797E3"
+            android:text="Chapter 9: Lists"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap8"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap10"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="16dp"
+            android:background="#3797E3"
+            android:text="Chapter 10: Classes"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap9"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap11"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 11: Forms"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.496"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap10"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/chap12"
+            android:layout_width="256dp"
+            android:layout_height="38dp"
+            android:layout_marginTop="20dp"
+            android:background="#3797E3"
+            android:text="Chapter 12: JavaScript"
+            android:textAlignment="center"
+            android:textColor="#EFE8E8"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.503"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chap11"
+            tools:ignore="TextContrastCheck" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

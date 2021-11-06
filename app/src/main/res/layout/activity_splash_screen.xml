@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerInParent="true"
+    android:background="#ED554A"
+    tools:context=".splash_screen">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="342dp"
+        android:layout_centerInParent="true"
+        app:srcCompat="@drawable/htmlcss" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="306dp"
+        android:layout_height="79dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="@font/seaweed_script"
+        android:text="Developed By Anas Ali 2k19/IT/18"
+        android:textAlignment="center"
+        android:textColor="#1C1919"
+        android:textSize="30sp" />
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aachap4.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap1.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap10.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap2.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap3.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap5.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap6.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap7.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap8.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_aadchap9.xml" value="0.18795289855072464" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_css_course.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_html_course.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap1.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap10.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap11.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap12.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap2.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap3.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap4.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap5.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap6.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap7.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap8.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_htmlchap9.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/activity_splash_screen.xml" value="0.1802536231884058" />
+        <entry key="..\:/AndroidProjects/html_css/app/src/main/res/layout/fragment_htmlchap1.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
